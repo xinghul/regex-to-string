@@ -1,0 +1,19 @@
+{
+  "name": "regex-to-string",
+  "version": "1.0.0",
+  "description": "Generate random string based on given regex.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xinghul/regex-to-string.git"
+  },
+  "author": "Levi Lu <xinghu1989@gmail.com> (http://levi-lu.net/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xinghul/regex-to-string/issues"
+  },
+  "homepage": "https://github.com/xinghul/regex-to-string"
+}
